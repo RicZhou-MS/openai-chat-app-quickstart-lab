@@ -13,8 +13,6 @@ since the local app needs credentials for Azure OpenAI to work properly.
 * [Features](#features)
 * [Architecture diagram](#architecture-diagram)
 * [Getting started](#getting-started)
-  * [GitHub Codespaces](#github-codespaces)
-  * [VS Code Dev Containers](#vs-code-dev-containers)
   * [Local Environment](#local-environment)
 * [Deploying](#deploying)
 * [Development server](#development-server)
@@ -37,31 +35,7 @@ since the local app needs credentials for Azure OpenAI to work properly.
 
 ## Getting started
 
-You have a few options for getting started with this template.
-The quickest way to get started is GitHub Codespaces, since it will setup all the tools for you, but you can also [set it up locally](#local-environment).
-
-### GitHub Codespaces
-
-You can run this template virtually by using GitHub Codespaces. The button will open a web-based VS Code instance in your browser:
-
-1. Open the template (this may take several minutes):
-
-    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Azure-Samples/openai-chat-app-quickstart)
-
-2. Open a terminal window
-3. Continue with the [deploying steps](#deploying)
-
-### VS Code Dev Containers
-
-A related option is VS Code Dev Containers, which will open the project in your local VS Code using the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers):
-
-1. Start Docker Desktop (install it if not already installed)
-2. Open the project:
-
-    [![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/azure-samples/openai-chat-app-quickstart)
-
-3. In the VS Code window that opens, once the project files show up (this may take several minutes), open a terminal window.
-4. Continue with the [deploying steps](#deploying)
+You have a few options for getting started with this template, here you can [set it up locally](#local-environment).
 
 ### Local Environment
 
